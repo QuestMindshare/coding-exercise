@@ -1,6 +1,6 @@
 # coding-exercise
 ## Overview
-Sample app created using create-next-app will serve as the skeleton, but there will be some development tasks to complete, placeholder code to be fleshed out, etc.
+Sample app stubbed-out using create-next-app which will serve as the skeleton, but there will be some development tasks to complete, placeholder code to be fleshed out, etc.
 
 You may use any and all resources at your disposal...except the "phone-a-friend" option.  Please do this exercise on your own.  If you utilize a third party, that fact _will_ surface in the end, and we'd all prefer that not happen.
 
