@@ -1,0 +1,24 @@
+[
+    {
+        "id": "6a3a3f6d-005f-45f7-b905-e379951e5bb8",
+        "first_name": "Roger",
+        "last_name": "Waters",
+        "email": "rwaters+2@gmail.com",
+        "desired_salary": 1000000.00,
+        "weeks_required_notice": 2,
+        "resume_body": "# Roger Waters\nI don't really need a resume, do I?  I mean, I pretty much kick ass and you'd die to have me!",
+        "created_on": "2021-01-19T23:36:16.015Z",
+        "available": true
+    },
+    {
+        "id": "41d7c03c-3ee4-4b3a-bb41-d21906ba1db9",
+        "first_name": "Janis",
+        "last_name": "Joplin",
+        "email": "jjoplin+2@gmail.com",
+        "desired_salary": 165000.50,
+        "weeks_required_notice": 3,
+        "resume_body": null,
+        "created_on": "2021-01-19T23:36:16.015Z",
+        "available": false
+    }
+]

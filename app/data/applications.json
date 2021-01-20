@@ -1,0 +1,16 @@
+[
+    {
+        "id": "5eb2d40f-beb4-4676-a0c7-36974360a68a",
+        "candidate_id": "41d7c03c-3ee4-4b3a-bb41-d21906ba1db9",
+        "job_posting_id": "0b8cea6c-980e-4017-b1c9-6678b199c53f",
+        "applied_on": "2020-12-21T11:24:03.002Z",
+        "cover_letter": "Please hire me...Love, Janis!"
+    },
+    {
+        "id": "daed065a-8e40-4759-be97-49409656e386",
+        "candidate_id": "6a3a3f6d-005f-45f7-b905-e379951e5bb8",
+        "job_posting_id": "cebe74c4-281f-4220-beef-a56c6263d756",
+        "applied_on": "2020-12-11T11:24:03.002Z",
+        "cover_letter": "Money!  It's a gas!"
+    }
+]
